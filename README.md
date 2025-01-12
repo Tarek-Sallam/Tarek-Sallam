@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [sallam.io](https://www.sallam.io)
+- 👨‍💻 My website portfolio: [sallam.io](https://www.sallam.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
