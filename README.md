@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek Sallam</h1>
-<h3 align="center">A Computer Science Student @ Carleton University</h3>
-
+<h3 align="center">Computer Science @ Carleton University</h3>
+<h3 align="center">Applied Machine Learning Intern @ Shopify</h3>
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 My website portfolio: [sallam.io](https://www.sallam.io)
